@@ -1,3 +1,5 @@
+create database Bike_Stores;
+use Bike_Stores;
 -- Criação da tabela Customers
 CREATE TABLE Customers (
     customer_id INT AUTO_INCREMENT PRIMARY KEY,
